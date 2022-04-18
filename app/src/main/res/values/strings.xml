@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">activity</string>
+    <string name="digiteam">DigiTeam</string>
+    <string name="digitugeder">Digital Together Everyone More</string>
+    <string name="jabar">Jabar Digital Service</string>
+    <string name="nama">Alvin Algadri 10119187</string>
+    <string name="uidesigner">UI Designer</string>
+    <string name="deskripsi">banner</string>
+    <string name="jamkerja">Jam Kerja Bulan Ini</string>
+    <string name="jamkerja2">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="batasminimum">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="checkin">checkin</string>
+    <string name="checkinn">Checkin</string>
+    <string name="jam">130.53 JAM</string>
+    <string name="deskripsigambar">background</string>
+    <string name="deskripsigambar2">button</string>
+    <string name="deskripsitulisan">jam</string>
+    <string name="laporankamu">Laporan Kamu</string>
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+    <string name="izin">Izin</string>
+    <string name="kehadiran">Kehadiran</string>
+    <string name="laporan">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="booking">Booking</string>
+    <string name="wiki">Wiki</string>
+    <string name="kotakabsen">Absen</string>
+    <string name="buatlaporan">Buat Laporan</string>
+    <string name="background">Background</string>
+
+</resources>
